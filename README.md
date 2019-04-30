@@ -16,7 +16,7 @@ I added a file named blue. My favorite color is blue.
 
 ## Person D:
 
-Person D should modify content here.
+I am person D! It's me! (I made some files.)
 
 ## Need inspiration?
 
