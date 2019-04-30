@@ -8,7 +8,7 @@ I added a txt file with a sentence in it.
 
 ## Person B:
 
-Person B should modify content here.
+Please review my text file
 
 ## Person C:
 
