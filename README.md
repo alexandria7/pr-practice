@@ -12,7 +12,7 @@ Person B should modify content here.
 
 ## Person C:
 
-Person C should modify content here.
+I added a file named blue. My favorite color is blue.
 
 ## Person D:
 
